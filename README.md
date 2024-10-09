@@ -111,7 +111,7 @@ curl --location localhost:8080 \
   "messages": [
     {
       "role": "user",
-      "content": "I want to cook pasta for dinner tonight but I've never done it before."
+      "content": "I want to cook pasta for dinner tonight but I have never done it before."
     },
     {
       "role": "assistant",
